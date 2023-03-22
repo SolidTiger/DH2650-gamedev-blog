@@ -1,0 +1,8 @@
+body {
+    background-color: #f1f1f1;
+    font-family : 'Open Sans', sans-serif;
+    width: 700px;
+    padding: 20px;
+    border-radius: 25px;
+    border: 2px solid #6495ED;
+}
