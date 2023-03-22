@@ -3,7 +3,7 @@ body {
     font-family : 'Open Sans', sans-serif;
     width: 700px;
     padding: 20px;
-    border-radius: 25px;
+    border-radius: 15px 50px 30px;
     border: 2px solid #6495ED;
     size: 25px;
 }
