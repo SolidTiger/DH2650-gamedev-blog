@@ -1,9 +1,14 @@
 body {
     background-color: #f1f1f1;
     font-family : 'Open Sans', sans-serif;
+
+}
+
+.main{
     width: 700px;
     padding: 20px;
-    border-radius: 15px 50px 30px;
+    margin-top: 20px;
+    border-radius: 20px;
     border: 2px solid #6495ED;
     size: 30px;
 }
